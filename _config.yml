@@ -6,7 +6,7 @@
 name: Wu Shuangshuang
 
 # Short bio or description (displayed in the header)
-description: test results: 999
+description: test results 999
 
 
 #
@@ -16,7 +16,7 @@ description: test results: 999
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:547897420@qq.com
+  email: 547897420@qq.com
   facebook:
   flickr:
   github: wushuangstudio
@@ -24,7 +24,7 @@ footer-links:
   linkedin: shuangshuang-wu-24672617a
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://wuhanstudio.cc
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -79,3 +79,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+host: 0.0.0.0
+port: 80
+
