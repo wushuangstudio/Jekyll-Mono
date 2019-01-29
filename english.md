@@ -7,7 +7,8 @@ permalink: /English/
 -----
 
 * [**第二十三届中国日报社“21世纪·可口可乐杯全国英语演讲比赛湖北省三等奖”**](#) 
-<img scr="images/speech.jpg"/>
+
+<img src="images/speech.jpg" height="430" width="535" />
 
 * [**2018年全国大学生英语竞赛特等奖**](#) 
 
