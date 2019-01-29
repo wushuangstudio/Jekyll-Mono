@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Past
-author: Wu Shuangshuang
+layout: page
+title: English
+permalink: /English/
 ---
 ## English
 -----
