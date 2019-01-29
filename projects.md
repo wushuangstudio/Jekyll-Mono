@@ -4,29 +4,38 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [宣传片](https://github.com/tux4kids/tuxmania) 
+《艺弦留》
 
-***
+<video src="http://pomelodouble-1252843818.costj.myqcloud.com/inherit.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+---
 
-***
 
-## Other Projects
 
-### This Could Be Another Project Name
+### [广告片](https://github.com/tux4kids/tuxmania) 
+《曰+勿=易》
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
+<video src="http://pomelodouble-1252843818.costj.myqcloud.com/inherit.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
 
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
+---
+
+### [街访](https://github.com/AkshayAgarwal007/Moodly)
+《90后爱情观》
+
+<video src="http://pomelodouble-1252843818.costj.myqcloud.com/boy.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
+
+---
+
+### [剪辑](https://github.com/AkshayAgarwal007/Moodly)
+《男孩与世界》
+
+<video src="http://pomelodouble-1252843818.costj.myqcloud.com/boy.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
+
+---
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[547897420@qq.com](mailto:547897420@qq.com)

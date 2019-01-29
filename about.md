@@ -3,53 +3,51 @@ layout: page
 title: About
 permalink: /about/
 ---
+                     
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+<h1>关于我</h1>
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+　<b>* 长江大学 Yangtze University</b>
 
-## Roles
+## Major in
 
-Founder, ABC Organisation
+　<b>* 广播电视学 Broadcasting & Television</b>
 
-## Skills
+## Basic Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
+　<b>*  英语六级 584</b>
 
+　<b>* 计算机二级C语言 </b>
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## Honor
+　<b>*  获2016-2017学年度长江大学奖学金</b>    
+　<b>*  获2017-2018学年度国家奖学金</b>    
+## Public Subscription Account
 
-***
+　<b>* 微信公众号：猫又创意</b>
+ 
+　　2016.9.24 公众号正式开通，初名“柚子君爱yy”
+<img scr="E:\wushuangstudio\wushuangstudio.github.io\images\pomelo1.jpg"/>
+<img scr="E:\wushuangstudio\wushuangstudio.github.io\images\pomelo2.jpg"/>
+　　2017.9.24 全新改版，更名“猫又创意”
+<img scr="E:\wushuangstudio\wushuangstudio.github.io\images\head.jpg"/>
+<img scr="E:\wushuangstudio\wushuangstudio.github.io\images\middle.jpg"/>
+<img scr="E:\wushuangstudio\wushuangstudio.github.io\images\rear.jpg"/>
+## Cooperative Works
 
-* [**This is my second achievement**](#) 
+<b>* 荆州文化传承宣传片《艺弦留》（获“卓美杯”微视频大赛最佳宣传片奖》</b>
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+<b>* 荆州地方旅游电视节目《荆彩漂游》</b>
 
-***
+<b>* 校园音乐微电影《红玫瑰白玫瑰》</b>
 
-* [**This is my third achievement**](#) 
+<b>* 校园街访《90后爱情观》</b>
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+<b>* 配音作品《海底总动员》</b>
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[547897420@qq.com](mailto:547897420@qq.com)
