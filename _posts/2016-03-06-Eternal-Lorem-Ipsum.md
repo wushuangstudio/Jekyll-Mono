@@ -3,7 +3,6 @@ layout: page
 title: English
 permalink: /English/
 ---
-## English
 -----
 
 * [**第二十三届中国日报社“21世纪·可口可乐杯全国英语演讲比赛湖北省三等奖”**](#) 
