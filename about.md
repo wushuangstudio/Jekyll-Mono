@@ -22,27 +22,28 @@ permalink: /about/
 　<b>* 计算机二级C语言 </b>
 
 ## Honor
+
 　<b>*  获2016-2017学年度长江大学奖学金</b>    
 　<b>*  获2017-2018学年度国家奖学金</b>    
+
 ## Public Subscription Account
 
 　<b>* 微信公众号：猫又创意</b>
  
-　　2016.9.24 公众号正式开通，初名“柚子君爱yy”
+  2016.9.24 公众号正式开通，初名“柚子君爱yy”
 
 ![](../images/pomelo1.gif)  
 
-<img src="../images/pomelo1.gif" hight=300 width=200 />
+![](../images/pomelo2.gif) 
 
-<img src="../images/pomelo2.gif" />
 
 　　2017.9.24 全新改版，更名“猫又创意”
 
-<img src="../images/head.gif" />
+![](../images/head.gif)  
 
-<img src="../images/middle.gif" />
+![](../images/middle.gif)  
 
-<img src="../images/rear.gif" />
+![](../images/rear.gif)  
 
 ## Cooperative Works
 
