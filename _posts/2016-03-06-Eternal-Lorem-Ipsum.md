@@ -1,7 +1,7 @@
 ---
 layout: page
 title: English Competition
-permalink: /English/
+permalink: /english/
 ---
 -----
 
