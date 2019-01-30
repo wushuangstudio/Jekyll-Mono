@@ -40,9 +40,3 @@ permalink: /projects/
 《男孩与世界》
 
 <video src="http://pomelodouble-1252843818.costj.myqcloud.com/boy.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
-
----
-
-## Contact me
-
-[547897420@qq.com](mailto:547897420@qq.com)
