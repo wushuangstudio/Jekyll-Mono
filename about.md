@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /关于我/
+title: 关于我
+permalink: /About/
 ---
 ## Education
 
@@ -29,17 +29,17 @@ permalink: /关于我/
  
       2016.9.24 公众号正式开通，初名“柚子君爱yy”
 
-![](../images/pomelo1.gif)
+![](../images/pomelo1.gif )
 
 ![](../images/pomelo2.gif) <!-- .element height="20%" width="20%" -->
 
       2017.9.24 公众号全新改版，更名“猫又创意”
 
-![](../images/head.gif)   <!-- .element height="20%" width="20%" -->
+![](../images/head.gif)  
 
-![](../images/middle.gif)   <!-- .element height="20%" width="20%" -->
+![](../images/middle.gif)  
 
-![](../images/rear.gif)   <!-- .element height="20%" width="20%" -->
+![](../images/rear.gif)  
 
 
 ## Cooperative Works
