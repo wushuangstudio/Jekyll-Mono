@@ -30,14 +30,20 @@ permalink: /about/
  
 　　2016.9.24 公众号正式开通，初名“柚子君爱yy”
 
-<img src="images/pomelo1.gif" hight=300 width=200 />
-<img src="images/pomelo2.gif" />
+![](../images/pomelo1.gif)  
+
+<img src="../images/pomelo1.gif" hight=300 width=200 />
+
+<img src="../images/pomelo2.gif" />
 
 　　2017.9.24 全新改版，更名“猫又创意”
 
-<img src="images/head.gif" />
-<img src="images/middle.gif" />
-<img src="images/rear.gif" />
+<img src="../images/head.gif" />
+
+<img src="../images/middle.gif" />
+
+<img src="../images/rear.gif" />
+
 ## Cooperative Works
 
 <b>* 荆州文化传承宣传片《艺弦留》（获“卓美杯”微视频大赛最佳宣传片奖》</b>

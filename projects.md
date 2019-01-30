@@ -30,7 +30,7 @@ permalink: /projects/
 ---
 
 ### [配音](https://github.com/AkshayAgarwal007/Moodly)
-《男孩与世界》
+《海底总动员》
 
 <video src="https://pomelodouble-1252843818.cos.ap-beijing-1.myqcloud.com/seafish.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
 
