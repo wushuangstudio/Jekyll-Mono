@@ -1,13 +1,13 @@
 ---
 layout: page
-title: English
+title: English Competition
 permalink: /English/
 ---
 -----
 
 * **第二十三届中国日报社“21世纪·可口可乐杯全国英语演讲比赛湖北省三等奖”**
 
-<img src="images/speech.jpg" height="395" width="535" />
+<img src="images/speech.jpg"/> 
 
 * **第二十届“外研社杯”全国大学生英语辩论赛校二等奖**
 
