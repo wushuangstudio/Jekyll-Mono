@@ -27,7 +27,7 @@ permalink: /about/
 
 　* 微信公众号：猫又创意
 
- ![](../images/222.gif)  
+ ![](../images/555.gif)  
 ## Cooperative Works
 
 * 荆州文化传承宣传片《艺弦留》（获“卓美杯”微视频大赛最佳宣传片奖》
