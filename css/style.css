@@ -29,7 +29,7 @@ body {
 }
 
 #grade {
-    margin-top: 50px; 
+    margin-top: 70px; 
 }
 
 #intro-heading {
@@ -108,10 +108,4 @@ body {
 #main-footer {
     background: #000;
     color: #FFF;
-}
-
-@media screen and (max-width: 600px) {
-    #grade {
-        margin-top: 50px; 
-    }
 }
