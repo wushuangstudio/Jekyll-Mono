@@ -2,7 +2,7 @@
     // Init Scrollspy
     $('body').scrollspy({
         target:'#main-nav',
-        offset: 50
+        offset: 100
     });
 
     // Smooth Scrolling
