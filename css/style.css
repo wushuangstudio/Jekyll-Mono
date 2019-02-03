@@ -1,7 +1,11 @@
-body {
+div {
     overflow-x: hidden;
 }
 
+body {
+    overflow-x: hidden;
+}
+ 
 .navbar .nav-link {
     font-size: 14px;
     text-transform: uppercase;
@@ -14,29 +18,23 @@ body {
 }
 
 .carousel-item {
-    height: 450px;
+    height: 500px;
 }
 
 .carousel-image-1 {
     background: url('../img/bg.jpg');
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
 }
 
-/* .carousel-image-2 {
-    background: url('../img/image2.jpg');
-    background-size: cover;
+#grade {
+    margin-top: 50px; 
 }
-
-.carousel-image-3 {
-    background: url('../img/image3.jpg');
-    background-size: cover;
-} */
 
 #intro-heading {
     position: relative;
-    min-height: 200px;
-    /* background: url("../img/lights.jpg"); */
+    min-height: 100px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     text-align: center;
@@ -45,8 +43,7 @@ body {
 
 #proj-heading {
     position: relative;
-    min-height: 200px;
-    /* background: url("../img/lights.jpg"); */
+    min-height: 100px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     text-align: center;
@@ -55,8 +52,7 @@ body {
 
 #achiev-heading {
     position: relative;
-    min-height: 200px;
-    /* background: url("../img/lights.jpg"); */
+    min-height: 100px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     text-align: center;
@@ -89,7 +85,6 @@ body {
 #video-play {
     position: relative;
     min-height: 200px;
-    /* background: url("../img/media.jpg"); */
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: 0 -300px;
@@ -103,7 +98,6 @@ body {
 
 #page-header {
     height: 200px;
-    /* background: url('../img/image1.jpg'); */
     background-position: 0 -360px;
     background-attachment: fixed;
     color: #FFF;
@@ -111,54 +105,13 @@ body {
     padding-top: 50px;
 }
 
-.about-img {
-    margin-top: -50px;
-}
-
-#faq .card {
-    border: #444;
-}
-
-#faq a {
-    color:white;
-    text-decoration: none;
-}
-
-#faq .card-body, 
-#faq .card-header {
-    background: #333;
-}
-
 #main-footer {
     background: #000;
     color: #FFF;
 }
 
-/**
- * Simple fade transition,
- */
- .mfp-fade.mfp-bg {
-	opacity: 0;
-	-webkit-transition: all 0.15s ease-out; 
-	-moz-transition: all 0.15s ease-out; 
-	transition: all 0.15s ease-out;
-}
-.mfp-fade.mfp-bg.mfp-ready {
-	opacity: 0.8;
-}
-.mfp-fade.mfp-bg.mfp-removing {
-	opacity: 0;
-}
-
-.mfp-fade.mfp-wrap .mfp-content {
-	opacity: 0;
-	-webkit-transition: all 0.15s ease-out; 
-	-moz-transition: all 0.15s ease-out; 
-	transition: all 0.15s ease-out;
-}
-.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
-	opacity: 1;
-}
-.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
-	opacity: 0;
+@media screen and (max-width: 600px) {
+    #grade {
+        margin-top: 100px; 
+    }
 }
