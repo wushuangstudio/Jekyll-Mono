@@ -32,7 +32,7 @@ body {
     margin-top: 70px; 
 }
 
-#intro-heading {
+#edu-heading {
     position: relative;
     min-height: 100px;
     background-attachment: fixed;
@@ -57,6 +57,20 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     color:#FFF;
+}
+
+#left-content {
+    position: relative;
+    font-weight: 500;
+    text-align: left;
+    color: #EEE;
+}
+
+#right-content {
+    position: relative;
+    font-weight: 500;
+    text-align: right;
+    color: #EEE;
 }
 
 #achiev-list ul li{
