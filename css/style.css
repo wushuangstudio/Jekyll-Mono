@@ -73,6 +73,11 @@ body {
     color: #EEE;
 }
 
+#project-list ul li{
+    font-weight: 500;
+    background-color: #EEE;
+}
+
 #achiev-list ul li{
     font-weight: 500;
     background-color: #EEE;
