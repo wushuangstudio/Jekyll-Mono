@@ -50,6 +50,15 @@ body {
     color:#FFF;
 }
 
+#intern-heading {
+    position: relative;
+    min-height: 100px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:#FFF;
+}
+
 #achiev-heading {
     position: relative;
     min-height: 100px;
@@ -74,6 +83,11 @@ body {
 }
 
 #project-list ul li{
+    font-weight: 500;
+    background-color: #EEE;
+}
+
+#intern-list ul li{
     font-weight: 500;
     background-color: #EEE;
 }
