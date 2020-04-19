@@ -68,6 +68,15 @@ body {
     color:#FFF;
 }
 
+#skill-heading {
+    position: relative;
+    min-height: 100px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:#FFF;
+}
+
 #left-content {
     position: relative;
     font-weight: 500;
@@ -93,6 +102,11 @@ body {
 }
 
 #achiev-list ul li{
+    font-weight: 500;
+    background-color: #EEE;
+}
+
+#skill-list ul li{
     font-weight: 500;
     background-color: #EEE;
 }
