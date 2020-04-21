@@ -91,6 +91,11 @@ body {
     color: #EEE;
 }
 
+#edu-list ul li{
+    font-weight: 500;
+    background-color: #EEE;
+}
+
 #project-list ul li{
     font-weight: 500;
     background-color: #EEE;
